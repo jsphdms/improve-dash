@@ -1,0 +1,51 @@
+.buffer { 
+margin-top:30px; 
+margin-bottom:30px; 
+}
+
+.left-buffer { 
+margin-left:30px; 
+}
+
+.bottom-buffer { 
+margin-bottom:30px; 
+}
+
+.top-buffer { 
+margin-top:30px; 
+}
+
+.right-buffer { 
+margin-right:15px; 
+}
+
+.title {
+	font-size:20px;
+	opacity: 0.8;
+}
+
+.chartTitle {
+	font-size:18px;
+	opacity: 0.8;
+}
+
+#chartSubTitle {
+	font-size:16px;
+	opacity: 0.6;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.selected {
+    border-radius: 24px 24px 24px 24px;
+    background-color: #EEEEEE;
+}
+
+.narrativeLabel {
+    max-width:150px;
+    word-wrap: break-word;
+    white-space: normal;
+}
